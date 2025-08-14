@@ -1,4 +1,4 @@
-- Hi, I’m @laoma-0(real name:ma bin).
+- Hi, I’m @laoma-0(real name:Ma Bin).
 - I’m interested in Java,Spring Boot,MySQL
 - I’m currently learning C# and full-stack development
 - Open Source Experience:
