@@ -1,12 +1,13 @@
-- Hi, I’m @laoma-0.
-- I’m interested in Java、Springboot、MySQL.
-- I’m currently learning C#、全栈开发.
-- Open Source Experience: 
-  --Independently complete a personal open source project for the management system, direct link:
-      ---[Smart Property Management System](https://github.com/laoma-0/property-management-GB)---Technical selection(MySQL/SpringBoot/Vue3 vite).
-      ---[Book Management System]((https://github.com/laoma-0/library))---Technical selection(MySQL/SpringBoot/Vue3).
-- How to reach me:[Email](mailto:2916336046@qq.com) 
-- Pronouns: he
+- Hi, I’m @laoma-0
+- I’m interested in Java, Spring Boot, 和 MySQL
+- I’m currently learning C# and full-stack development
+- Open Source Experience:
+  - Independently developed personal open source management systems:
+    - [Smart Property Management System](https://github.com/laoma-0/property-management-GB)  
+      Tech stack: MySQL, Spring Boot, Vue3 + Vite
+    - [Book Management System](https://github.com/laoma-0/library)  
+      Tech stack: MySQL, Spring Boot, Vue3
+- How to reach me: [Email](mailto:2916336046@qq.com)
 
 
 <!---
