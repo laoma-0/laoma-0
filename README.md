@@ -4,7 +4,7 @@
 - Open Source Experience:
   - Independently developed personal open source management systems:
     - [Smart Property Management System](https://github.com/laoma-0/property-management-GB)  
-      (Tech stack: MySQL, Spring Boot, Vue3 + Vite)
+      (Tech stack: MySQL, Spring Boot, MyBatis, Vue3 + Vite)
     - [Book Management System](https://github.com/laoma-0/library)  
       (Tech stack: MySQL, Spring Boot, Vue3)
 - How to reach me: [Email](mailto:2916336046@qq.com)
