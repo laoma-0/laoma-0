@@ -1,5 +1,5 @@
-- Hi, I’m @laoma-0
-- I’m interested in Java, Spring Boot, 和 MySQL
+- Hi, I’m @laoma-0(real name:ma bin).
+- I’m interested in Java,Spring Boot,MySQL
 - I’m currently learning C# and full-stack development
 - Open Source Experience:
   - Independently developed personal open source management systems:
